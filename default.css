@@ -234,11 +234,11 @@
 
 .container .row:nth-child(9)
 {
-    margin-top: 84px;
+    margin-top: 75px;
     background-color: #868686;
     height: 217px;
     width: 128%;
-    margin-left: -95px;
+    margin-left: -105px;
 }
 .container .row .contact-content
 {
@@ -273,7 +273,7 @@
 {
     max-width: 1200px;
     width: 1200px;
-    margin-left: -80px;
+    margin-left: -120px;
     background-color: #6d6d6d;
     margin-right: -42px;
     display: flex;
