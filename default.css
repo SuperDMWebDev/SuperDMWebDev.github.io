@@ -238,7 +238,7 @@
     background-color: #868686;
     height: 217px;
     width: 128%;
-    margin-left: -105px;
+    margin-left: -117px;
 }
 .container .row .contact-content
 {
@@ -271,15 +271,15 @@
 }
 .footer
 {
-    max-width: 1200px;
-    width: 1200px;
-    margin-left: -120px;
+    max-width: 1500px;
+    width: 1352px;
+    margin-left: -105px;
     background-color: #6d6d6d;
     margin-right: -42px;
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
-    color:#4f4f4f;
+    color: #4f4f4f;
 }
 .footer__text-right
 {
